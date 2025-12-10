@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TikTok No-Logo Downloader",
+  "description": "A modern web application to download TikTok videos without logos or watermarks. Supports single video and channel-wide batch processing.",
+  "requestFramePermissions": []
+}
